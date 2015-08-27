@@ -1,0 +1,226 @@
+EJERCICIOS PARTE I: TEORÍA DE LOS MERCADOS COMPETITIVOS (Temas 2 y 3)
+1)
+La función de costes totales de una empresa en competencia perfecta es: CT=q^3-6q^2+16q +100. Determinar la cantidad producida por la empresa y su beneficio, representando gráficamente, si el precio de mercado fuera:
+2)
+Dada la siguiente función de costes de un empresario: CT = 4q3-24q2+48q+400.
+Determinar e ilustrar gráficamente la decisión óptima para el empresario en cada caso, sabiendo que vende su producto en un mercado competitivo en el que el precio es:
+a) P= 12 b) P=48    c) P=108 d) P=300
+3)
+Dada    la    siguiente    función    de    costes    de    un    empresario: CT=1/3q^3 -12q^2 +150q+2304. Determinar e ilustrar gráficamente la decisión óptima para el empresario en cada caso, sabiendo que vende su producto en un mercado competitivo en el que el precio es:
+a) P= 22 b) P=42    c) P=70    d) P=150 e) P=330
+4) Una empresa competitiva tiene una función de costes definida por: CT =3q^2 +8q+588
+a) Obtener la expresión de la curva de oferta. Representar gráficamente.
+b) Calcule el precio correspondiente al óptimo de la explotación. ¿Cuál es el beneficio de la empresa para este precio? Representar gráficamente.
+c) ¿A partir de qué precio la empresa participará en el mercado? Si ese fuera el precio de mercado, ¿cuál sería el nivel de beneficios de la empresa?
+5) Una empresa competitiva tiene una función de costes totales que viene determinada por la expresión: CT= 5q^2 +3q + 125. Se pide:
+a) Sabiendo que P=33, hallar la cantidad lanzada por la empresa y el beneficio obtenido.
+b) Hallar la curva de oferta individual.
+c) ¿Cuál debería ser el precio de mercado para que el empresario obtuviera un beneficio nulo?
+d) Hallar la curva de oferta de mercado si en ese mercado hay 100 empresas idénticas.
+6) Una empresa competitiva tiene una función de costes definida por la expresión:
+CT= 2q^3- 8q^2+ 16q + 60.
+a) Obtener la expresión de la curva inversa de oferta. Representar gráficamente.
+Solución:
+P=6q^2 -16q+16 ; q≥2
+Calcular el precio correspondiente al mínimo de la explotación. ¿Cuál es el beneficio de la empresa para este precio?
+Solución: PME=8, B= -60
+7) Conocemos las funciones de oferta y demanda de mercado de un bien Q: 
+Función de Oferta: Q^S=40+2P            
+Función de Demanda: Q^D=580-4P
+a) Determinar y representar gráficamente la solución de equilibrio del mercado.
+b)
+Interpretar e ilustrar gráficamente la situación del mercado si el precio vigente fuese P=100
+c)
+Interpretar e ilustrar gráficamente la situación del mercado si el precio vigente fuese P=60
+8) La oferta total de un mercado de libre concurrencia es Q=P/2-10 y la demanda 2 total del mismo se representa por Q = 120-P/3. Determinar la variación que se produciría en la cantidad intercambiada y en el precio si como consecuencia de perfeccionamientos técnicos la oferta aumentase para cada precio en ocho unidades de mercancía a la vez que, como resultado de campañas de publicidad, la demanda aumentase en 18 unidades del artículo, también para cada precio.
+Solución: dq= 14, dP= 12
+9)
+Una empresa competitiva tiene una función de costes totales que viene determinada por la expresión: CT= 3q2+ 5q + 50.
+a) Sabiendo que P=35, hallar la cantidad lanzada por la empresa y el beneficio.
+Solución: q=5; B=25
+Hallar la curva de oferta de esa empresa. ¿Es una curva de oferta a corto o a largo plazo? ¿Qué elemento se lo indica?
+Solución: P-5/6 = q, P≥ 5
+Si en ese mercado hay 6000 empresas idénticas, hallar la curva de oferta de mercado.
+Solución: 1000P-5000=Q
+Si la demanda del mercado es Q=74500-500P, hallar el equilibrio del mercado y el beneficio de cada empresario.
+Solución: P^C=53, Q^C=48.000; q_i=8; B=\pi=142.
+10) Los empresarios de un mercado competitivo a largo plazo conocen la siguiente función de costes:
+a)
+Si la función de demanda de mercado viene dada por Q=1000-100P, determinar el número de empresas que integrarán el mercado en el equilibrio.
+Se produce un cambio en la demanda y la nueva curva de demanda de mercado es Q = 500 - 50P. Determinar si entran o salen empresas y en su caso, indicar el número.
+Suponga que la función de demanda de mercado es la del apartado 
+a) y suponga que la función de costes se modifica de manera que pasa a ser C=3q3-12q2+18q. Calcular el nuevo equilibrio de mercado y comparar respecto al apartado 
+a). ¿Qué hecho o hechos han podido causar este cambio en la función de costes?
+11) Se sabe que la función de costes a largo de cada una de las n empresas que abastecen un mercado a largo plazo es C = 15q^2 -15/8q^3. La curva de demanda de mercado es Q= 100-2P. Con estos datos, se pide obtener el precio y la cantidad de equilibrio, el número de empresas que abastecerá el mercado a largo plazo y sus correspondientes beneficios obtenidos.
+Solución: P^C=30, QC=40, n=10, B=0.
+12) Suponga un mercado competitivo en el que operan empresas idénticas con una función de costes a largo plazo C(q_j) =q_j^3 -20q^2_j + 200q_j, donde q_j es la producción de cada empresa. Si la curva de demanda de mercado es Q = 1000-P, siendo P el precio del bien Q:
+a) Determinar el equilibrio a largo plazo de la industria.
+Solución: q^C=10, p^C=100, Q^C=900, n=90
+b)
+Suponga que se incrementa la demanda de mercado, siendo la nueva curva Q = 1200- P, ¿cómo afecta este cambio al equilibrio a largo plazo? Solución: q^C=10, p^C=100, Q^C=l.100, n=110
+13) En un mercado competitivo operan empresas idénticas con una función de costes a largo plazo C(q_j)=q_j^3-6q_j + 72q_j, donde q_j es la producción de cada empresa.
+Si la curva de demanda de mercado es Q = 213-P, siendo P el precio del bien q: a) Determinar el equilibrio a largo plazo de la industria.
+b) Suponga que disminuye la demanda de mercado, siendo la nueva curva Q = 192- P, ¿cómo afecta este cambio al equilibrio de largo plazo? Ilustrar
+gráficamente.
+14) Suponga un mercado competitivo en el operan empresas idénticas con una función de costes a largo plazo C(q_j)=2q_j^3-2Oq_j+100q_j, donde q_j es la producción de cada empresa. Si la curva de demanda de mercado es Q=200- P, siendo P el precio del bien q:
+a) Determinar el equilibrio a largo plazo de la industria.
+Solución: q* = 5,P* = 50, Q* = 150,n = 30
+b) El gobierno, interesado en potenciar la entrada de nuevas empresas en esta industria, se plantea dos medidas alternativas:
+i) Conceder una subvención a los productores de 20 u. m. por unidad vendida.
+Solución: q^C=5, p^C=30, Q^C=170, n=34
+ii) Realizar una campaña publicitaria de forma que la nueva función de demanda, con certeza, sería Q = 220 -P.
+Solución: q^C=5, p^C=50, Q^C=170, n=34
+Analizar y comparar la eficacia de ambas medidas para conseguir el objetivo del gobierno.
+15) Una industria perfectamente competitiva tiene un gran número de entrantes potenciales. Cada empresa tiene la misma estructura de costes, de forma que el coste medio a largo plazo se minimiza a un nivel de producción de 20 unidades. El coste medio mínimo es de 10 $ por unidad. La demanda total del mercado viene dada por
+Q =1500-50P
+¿Cuál es el precio de equilibro a largo plazo?¿Y la producción total de la industria? ¿Y el número de empresas? ¿Y los beneficios de cada empresa? Solución: q^C=20, p^C=10, Q^C=1000, n=50, B_j=\pi_j=0
+Suponga que la función de demanda de mercado se desplaza hasta Q=2000-50P. si a corto plazo las empresas no pueden entrar ni salir, ;cuál será el precio de mercado con esta nueva curva de demanda? ¿Cuáles serán los beneficios de la empresa típica? (La curva del coste total a corto plazo de cada empresa viene dada por CT = 0.5q^2 - 10q + 200)
+Solución: p^C=15, Q^C=1.250, B_j=\pi_j=112,5
+A largo plazo, ¿cuál es el nuevo equilibrio de esta industria?
+Solución: q^C=20, p^C=10, Q^C=1500, n=75
+16) El trigo se produce en condiciones de competencia perfecta. Los agricultores individuales tienen curvas de costes medios a largo plazo en forma de "U" que alcanzan un coste mínimo de 3 euros por tonelada cuando se produce 1 tonelada.
+a) Si la curva de demanda del mercado de trigo viene dada por
+Q=2600-200P
+donde Q representa las toneladas demandadas al año y P es el precio por tonelada, ¿cuál será el precio del trigo en el equilibrio a largo plazo, cuánto trigo se demandará y cuántas explotaciones cultivarán trigo?
+b)
+Suponga que la demanda se desplaza hasta
+Q=3200-200P
+Dada la nueva curva de demanda ¿cuál será el nuevo equilibrio a largo plazo? (calcular el precio de mercado, la cantidad producida de trigo y el
+nuevo número de explotaciones de equilibrio en esta nueva situación).
+Representar gráficamente.
+17)
+La demanda de autobuses diésel es Q = 2500 - P/2
+y la oferta Q=2P-250.
+a)
+Obtener el equilibrio, el excedente de los consumidores y de los productores, así como el bienestar social. Representar gráficamente.
+Hallar cómo varían dichos excedentes, así como el bienestar social si el Gobierno establece un precio mínimo p^min=1500 y limitase la producción.
+Ilustrar gráficamente.
+c)
+¿Cambiaría la situación si el Estado absorbiese los excedentes de producción? ¿Cómo variarían los excedentes ahora? ¿Y el bienestar social?
+18) En un mercado existen 100 empresas y 1000 consumidores. Las funciones de oferta y demanda individuales vienen dadas por las siguientes ecuaciones:
+q^s =0,01P -1
+q^d =0,2 - P / 2000
+Calcular la cantidad y precio de equilibrio en este mercado. Especificar cuánto demanda cada consumidor y cuánto oferta cada productor.
+Solución: Q^C=100, p^C=200, q^S=l, q^d=0,1
+Si el Gobierno establece un precio máximo pmax= 150, hallar el excedente de los consumidores y de los productores en esta situación, así como la pérdida en bienestar social que supondría. Ilustrar gráficamente.
+Solución: EC= 10.000, EP= 1.250; dBS=- 3.750
+19) Sea un mercado de competencia perfecta a corto plazo en el que la función de demanda viene dada por Q^D= 1450-200P. En dicho mercado concurren 100 empresas idénticas cuyas funciones de costes variables medios tienen la expresión.
+CVMe=q+1
+Determinar la cuantía de los costes fijos de cada empresa sabiendo que para un precio de mercado P=25 cada una de ellas produce una cantidad de producto igual a su óptimo de la explotación.
+Solución: CF = 144
+Obtener el precio y la cantidad de equilibrio de mercado así como el excedente del productor y consumidor asociados.
+Solución: p^C=6, qC=250, EC=156,25, EP=625
+Hallar la pérdida de bienestar social y justificar gráficamente si el Estado estableciese un precio máximo de 5 u.m.
+Solución: dBS=-31,25.
+20) Suponga que la demanda de brócoli viene dada por Q^D=1000-5P, donde Q es la cantidad anual medida en cientos de fanegas y P es el precio en dólares por cien fanegas. La curva de oferta viene dada por Q^s=4P-80
+¿Cuál es la cantidad de equilibrio de fanegas producidas? ¿Cuál es el precio de equilibrio? ¿Cuál es el excedente del consumidor en este equilibrio? ¿Cuál es el excedente del productor en este equilibrio?
+Solución: p^C=120, Q^C=400, EC= 16.000, EP= 20.000
+¿Cuánto excedente del productor y del consumidor se perdería si Q=300 y el precio de equilibrio se mantuviera?
+Solución: dBS=2250 (pérdida de bienestar social).
+Calcular como se reparte la pérdida de bienestar social derivada de la situación b) entre consumidores y productores.
+Solución: Los consumidores asumen 1000 y los productores 1250
+Partiendo de la situación a), suponga que la demanda de brócoli se desplazara hacia fuera hasta Q=1270-5P, ¿cuál será el nuevo equilibrio de mercado? Calcular el excedente del consumidor y del productor Solución: pC=150, QC=520, EC= 27.040, EP= 33.800
+Bajo las condiciones del apartado anterior suponga que el gobierno impidiera que el precio del brócoli aumentara por encima del precio de equilibrio obtenido en a). ¿Hay pérdida de eficiencia? Si es así, calcular y justificar gráficamente cómo se distribuye esta pérdida entre demandantes y proveedores
+Solución: Q= 400, ABS=-3.240 (pérdida de eficiencia)
+21) Suponga que hay mil empresas idénticas que producen diamantes y que la curva de coste total de cada empresa viene dada por: CT= q2+10q+l.
+¿Cuál será la curva de oferta a corto plazo de la empresa? ¿Cuál será la curva de oferta de la industria?
+Si la demanda del mercado de diamantes es Q=8000-150P, ¿cuál será el equilibrio del mercado? Calcular el excedente de los consumidores y de los productores.
+Supongamos que el Estado fija un precio mínimo pmin= 30 con el fin de limitar la producción de diamantes. Hallar la variación en el excedente de los consumidores y de los productores, así como la pérdida de bienestar social.
+Ilustrar gráficamente.
+Justificar como cambiarían los excedentes anteriores y cuál sería la pérdida de bienestar social si el Estado absorbiese el exceso de oferta generado ante el establecimiento de dicho precio mínimo. Ilustrar gráficamente.
+22) La industria del rapé está compuesta por 100 empresas idénticas que compiten en un entorno de competencia perfecta. Los costes totales de cada una de estas empresas vienen dados por CT= 0,5q2 + 10q + 5    donde q es la producción diaria de cajas de rapé.
+¿Cuál es la curva de oferta a corto plazo de cada fabricante? ¿Cuál es la curva de oferta a corto plazo del conjunto del mercado?
+
+Suponga que la demanda viene dada por Q= 1100-50P, donde el precio viene dado en dólares. ;Cuál será el equilibrio en este mercado? ;Cuáles serán los beneficios totales a corto plazo de cada empresa?
+
+Dibuje el equilibrio de mercado y calcule el excedente del productor y del consumidor
+
+Demuestre que el excedente del productor es igual a los beneficios totales de la industria más los costes fijos a corto plazo de la industria.
+
+Suponga que el gobierno impusiera un impuesto de 35 por caja de rapé.
+¿Cómo afectaría este impuesto al equilibrio de mercado? Calcule la pérdida total del excedente del productor. ¿Cómo se repartiría esta pérdida entre compradores y vendedores? Demostrar que esta pérdida es igual al cambio en los beneficios totales a corto plazo en la industria.
+23) La empresa AVIA S.A. construye y vende helicópteros utilizando factor trabajo (L) y capital (K) en un mercado perfectamente competitivo en el corto plazo con la curva de costes totales siguiente: CT(q)= 4q2 + 100, donde q es la cantidad producida. Suponiendo que la demanda del mercado tiene la expresión Q= 96-2P (siendo P el precio de los helicópteros):
+¿Cuál es la curva de oferta a corto plazo de cada fabricante?
+Solución: q = P/8, P > 0
+Calcular el equilibrio competitivo si hubiera 16 empresas idénticas en el mercado.
+Solución: pC=24, QC=48.
+Calcular cómo varían los excedentes de consumidores, productores y el bienestar social si el gobierno establece un impuesto de 2 unidades monetarias por unidad vendida del producto. Ilustrar gráficamente.
+Solución: AEC=-47; AEP=-47; AEC=92; ABS=-2.
+Calcular cómo varían los excedentes de consumidores, productores y el bienestar social si, en lugar de un impuesto, lo que establece el gobierno es una subvención de 2 unidades monetarias por unidad vendida del producto.
+Ilustrar gráficamente.
+Solución: AEC=49; AEP=49; Gasto del Gobierno: 100; ABS=-2.
+24) Suponer un mercado competitivo con 100 empresas, costes de producción C(qj)=q2 +5qj +5 y demanda qD= 200-10P
+a) ¿Cuál es la curva de oferta a corto plazo de cada fabricante?
+b) Obtener el equilibrio y el beneficio de las empresas.
+c) El gobierno concede una subvención por unidad producida de s=2. ¿cuál es el impacto sobre el bienestar social? Ilustrar gráficamente
+25)
+En un mercado competitivo operan 10 empresas idénticas con una curva costes a 2
+corto plazo C(q_j)=q_J^2/4 + 64 donde qjes la producción de cada empresa. La 
+demanda de mercado para el producto q es Q=1000- 20P, siendo P el precio del bien q:
+a) Obtenga la curva de oferta a corto plazo de cada empresa y la curva de oferta de la industria competitiva. Determinar el equilibrio de la industria competitiva a corto plazo.
+b) Comparar los efectos sobre el equilibrio de las siguientes medidas establecidas por el gobierno:
+i. Un impuesto unitario de t=2 sobre la producción.
+ii. Un impuesto del 10% sobre los beneficios.
+c) Calcular el bienestar social bajo cada situación. Ilustrar gráficamente.
+Sea un mercado con demanda q^D = 350 - P/2
+ y oferta q^S = P-100 / 2
+Hallar el precio y la cantidad de equilibrio ¿cuál sería el excedente de los consumidores y el excedente de los productores? Ilustrar gráficamente Solución: QC=150, pC=400, EC=22.500, EP= 22.500
+Suponemos que desaparecen los obstáculos al comercio exterior y este mercado se abre al comercio internacional, siendo el precio del resto del mundo PM=150.
+En estas condiciones, ¿cuál sería la cantidad de equilibrio? ¿cuál sería el número de unidades importadas? ¿Cómo se modificaría el excedente de consumidores y productores? ¿Aumentaría el bienestar social? ¿En que cuantía?
+Solución: QC=275, Qnacional=25, M=250, AEC=53.125, AEP=-21.875, ABS= 31.250.
+Si el Gobierno establece un Arancel de 50 u.m por unidad importada.
+i.
+Hallar el nuevo equilibrio.
+Solución: QC=250, Qnacional=50, M=200.
+ii. Hallar la variación en el excedente de los consumidores, en excedente de los productores, la recaudación del Estado y la pérdida de bienestar social.
+Señalar gráficamente cómo la variación del excedente del consumidor se transfiere a productores, Estado y pérdida de eficiencia.
+Solución: AEC=-13.125, AEP=l.875, EG=10.000, ABS=-l.250 (pérdida de eficiencia)
+27) El mercado de las almendras es competitivo. Conocemos las funciones de demanda qI)=100-P y oferta qS=4P.
+Hallar el precio y la cantidad de equilibrio /.cuál sería el excedente de los consumidores y el excedente de los productores? Ilustrar gráficamente.
+Si el mercado se abre al comercio internacional y sabemos que el precio del mercado mundial es PM=50. ¿Cuál será la nueva producción de equilibrio? ¿Cuánto se exportará? hallar las repercusiones sobre el excedente de los consumidores y de los productores y representar gráficamente. ¿Mejora el bienestar social por la apertura al comercio internacional? ¿En cuánto? Justificar gráficamente señalando las diferentes áreas.
+28) La demanda nacional radios portátiles viene dada por QD= 5000-100P, donde el precio P se mide en dólares y la cantidad Q se mide en miles de radios al año. La curva de oferta nacional anual de radios viene dada por QS=150P.
+¿Cuál es el equilibrio del mercado nacional de radios portátiles? Solución: pC=20, QC=3.000
+Suponga que las radios portátiles se pueden importar a un precio mundial de 10 dólares por radio. Si no hay obstáculos en el comercio /.cuál sería el nuevo equilibrio del mercado? /.Cuántas radios portátiles se pueden importar?
+Solución: pC=10, QC=4.000, QSnacional=l.500, M=2500.
+Si los productores nacionales de radios portátiles consiguieran que se impusiera un arancel de 55, /.cómo cambiaría el equilibrio de mercado? /.Cuánto se recaudaría en ingresos arancelarios?/.Qué parte del excedente del consumidor se transferiría a los productores nacionales? /.cuál sería la pérdida de eficiencia?
+Solución: pC=15, QC=3.500, QSnacional=2.250, M=1.250, recaudación 6250 miles de $, AEC=-18.750, AEP=9.375, AEG= 6.250; ABS= -3.125 (pérdida de eficiencia).
+29) Las curvas de oferta y demanda nacionales de toallas de un determinado producto son las siguientes:
+QD= P-50
+QS = 200- P / 2 donde P es el precio en euros y Q es el número de unidades de ese producto.
+a) Hasta la fecha el comercio con el exterior es libre siendo el precio mundial de 60 euros la unidad. ¿Aumentaría el bienestar social con respecto a una situación de
+economía cerrada al exterior? LEn qué cuantía? Justificar gráficamente.
+b) Se está considerando la posibilidad de establecer un arancel de 10 euros ¿Cómo cambiaría el equilibrio de mercado? ¿Cuánto se recaudaría en ingresos arancelarios?
+c) ¿Cuál sería la pérdida de eficiencia?
+30) Conocemos las curvas de oferta y demanda de harina de un determinado país: QD=400-2P y Qs=6p. Sabemos que el mercado está en equilibrio a corto plazo.
+Hallar el precio del mercado interior y la cantidad de harina intercambiada en el equilibrio.
+Solución: pC=50, QC=300
+El mercado tiene la oportunidad de abrirse al comercio internacional y sabemos que el precio del mercado mundial es pM=80, ¿cambiaría el equilibrio? ¿mejoraría el bienestar social? Ilustrar gráficamente.
+Solución: Q= 480, Qnacional=240, X= 240, ABS= 3.600.
+Hallar las repercusiones de la apertura al extranjero sobre el excedente de los consumidores y de los productores. Ilustrar gráficamente.
+Solución: AEC= -8.100, AEP= 11.700.
+CUESTIONES PARTE I: TEORíA DE LOS MERCADOS COMPETITIVOS
+1. La demanda a la que se enfrenta una empresa no es más que la curva de demanda de mercado y por tanto, es independiente del tipo de competencia al que la empresa se enfrente. ¿Es correcta esta afirmación? Explicar la respuesta.
+2. Una empresa competitiva que produce tal que P=C' está maximizando beneficios y siempre debe seguir en el mercado. ¿Es correcta esta afirmación? Explicar la respuesta.
+3. Una empresa competitiva que está produciendo en un nivel de producción tal que p>c' deberá aumentar el nivel de producción. ¿Es correcta esta afirmación? Explique su respuesta.
+4. Si en un mercado competitivo todas las empresas están maximizando beneficios entonces la industria está en equilibrio.
+5. Sea un mercado competitivo a corto plazo en equilibrio. Si el coste fijo de las empresas aumenta, entonces el equilibrio de mercado no variará pero sí disminuirá el excedente de los productores.
+6. Sea un mercado competitivo a corto plazo en equilibrio. ¿Afectaría un impuesto sobre los beneficios totales a la cantidad de producción que maximiza los beneficios? ¿Y si se impone un impuesto por unidad producida?
+7. En condiciones de equilibrio competitivo a largo plazo, todas las empresas de la industria obtienen un beneficio económico nulo. ¿Por qué es cierta esta
+afirmación?
+8. ¿Por qué entran empresas en una industria cuando saben que los beneficios económicos a largo plazo serán nulos?
+9. A principios del siglo XX había muchos fabricantes de coches (un tipo de mercado más próximo a la competencia). Sin embargo, cada vez el número de fabricantes es menor a pesar de que la demanda de coches ha sido creciente. ;Por qué ha cambiado el tipo de mercado en la fabricación de automóviles?
+10. Sea un mercado competitivo a largo plazo. Como todas las empresas obtienen beneficios nulos, una bajada del precio impuesta desde el exterior implicaría el cierre de todas las empresas de ese mercado. ;Es correcta esta deducción? Explicar la respuesta.
+11. Si una empresa competitiva está en equilibrio, entonces el mercado competitivo también está en equilibrio. ;Es correcta esta afirmación? Explicar la respuesta.
+12. Sea un mercado competitivo a largo plazo en equilibrio. Si se introduce un impuesto sobre las ventas de t unidades por unidad, ;habrá entrada o salida de empresas? Ilustrar la respuesta gráficamente.
+13. Una disminución de la demanda en el equilibrio competitivo a largo plazo provoca una disminución en el nivel de output total porque las empresas que operan en el mercado producen menos cantidad. ;Es correcta esta afirmación? Explicar la respuesta.
+14. Suponga que el gobierno quiere limitar las importaciones de un determinado bien. Compare la pérdida de eficiencia que se produce al imponer un arancel. ;Y si se impone un contingente? Ilustrar la respuesta.
+15. Suponga que un mercado competitivo está en el equilibrio de largo plazo.
+Discutir e ilustrar gráficamente qué ocurre en los siguientes supuestos:
+a)
+Hay una campaña publicitaria que expande la demanda de mercado.
+b) Se produce una innovación tecnológica que reduce costes y, además, hace disminuir la dimensión óptima.
+c) Se produce una innovación tecnológica que reduce costes y, además, hace aumentar la dimensión óptima.
+16. Un gobierno considera que el precio del metro cuadrado de la vivienda es éticamente inaceptable. Por ello, decide regular el precio de venta en este mercado, que es competitivo, obligando a vender la vivienda a un precio inferior al de equilibrio. El gobierno considera que con esta intervención, el Bienestar Social aumentará. Las razones que esgrime es que, por un lado, todos los individuos que están en condiciones de pagar el precio fijado por el gobierno, pero que no podían pagar el precio de mercado antes de la intervención accederán a una vivienda en propiedad. Por otra parte, esta
+medida no afecta a los potenciales compradores que ya habían decidido adquirir su vivienda antes de la intervención del gobierno, puesto que si estaban dispuestos a pagar el precio de mercado también podrán soportar el precio fijado por el gobierno. LEs correcto este razonamiento? LAumentará tras la intervención el bienestar social? Justificar la respuesta e ilustrarla gráficamente.
+17. Para mantener la producción nacional de arroz las autoridades japonesas están indecisas entre conceder una subvención por unidad producida o implantar un arancel a las importaciones de arroz. ¿Qué medida preferirá el gobierno? ¿Qué medida preferirán los agricultores japoneses?
+18. Para mantener los precios de los productos agrícolas producidos en la UE, los políticos manejan dos medidas: imponer cuotas a la producción o dando a los productores incentivos para abandono de tierras. ¿Qué medida preferirá el gobierno? ¿Qué medida preferirán los agricultores europeos?
