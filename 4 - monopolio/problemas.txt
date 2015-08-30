@@ -1,0 +1,12 @@
+11. Sea una industria duopolística en la que la curva inversa de demanda viene dada por P = 10 - Q, las empresas compiten en cantidades con los mismos costes C(qj)= 4qj y la empresa i decide primero la cantidad de output.
+a) Calcular las cantidades producidas por cada empresa, el precio del bien y los beneficios de cada empresa si F=0.
+b) Suponer que la empresa 2 le plantea a su rival la posibilidad de que deje de comportarse como líder y pasen a competir simultáneamente. ¿Cuál es la cantidad mínima de dinero que estaría dispuesta a aceptar la empresa i para dejar su papel de líder en la industria? ¿Cuál es la cantidad máxima que está dispuesta a pagar la empresa 2 para convencer a la i que deje su papel? ¿Existe posibilidad de acuerdo entre los rivales? Explicar.
+12. Suponer un oligopolio con n empresas idénticas que compiten simultáneamente en precios y producen con costes c = 2qi. La demanda de mercado es P= 50 - Q.
+Demostrar, considerando un horizonte temporal indefinido, que cuanto mayor sea "n" los acuerdos colusivos son más dificiles de sostener ¿Cual es el valor más bajo de 6 que
+haría sostenible la colusión tácita?
+13. (Fusiones y Eficiencia) Considerar un oligopolio de Cournot con 3 empresas y una demanda lineal Q = 100-P. Las empresas producen con costes C1= 10ql, C2= 20q2, C3= 20q3. Se pide:
+a) Hallar el equilibrio y el nivel de bienestar social.
+b) Suponer que las empresas dos y tres se fusionaran. Si con la fusión la nueva empresa no tuviera ningún ahorro en costes de forma que C=20q, ¿les interesaría a las empresas fusionarse?
+c) Suponer que la fusión permitiera a la nueva empresa obtener cierta reducción en sus costes de producción, que pasarían a ser C= 16q. ¿Sería rentable la fusión para las empresas?¿Cómo afectaría al excedente de los consumidores, al de los productores, y al Bienestar social?
+d) Suponer que la fusión permitiera a la nueva empresa obtener una reducción muy alta en sus costes, que pasarían a ser C= q. ¿Sería rentable la fusión para las empresas?¿Cómo afectaría al excedente de los consumidores, al de los productores, y al Bienestar social?
+e) ¿A qué conclusiones nos permite llegar este ejercicio respecto a cuándo una fusión es beneficiosa y respecto a los posibles efectos de una fusión sobre el bienestar social? ¿Las fusiones siempre van a perjudicar a los consumidores?

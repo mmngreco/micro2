@@ -1,0 +1,33 @@
+Universidad Católica San Antonio - Grado en ADE Mi¢roe¢onomía II - Autoevalua¢ión Tema 1
+Las siguientes cuestiones revisan el Tema 1. Si has estudiado el tema debería ser capaz de responderlas. El objetivo de estas preguntas es repasar: una vez que has estudiado el tema, lee las preguntas y plantéate si serías capaz de contestarlas. Es conveniente que escribas las respuestas en un papel y luego repases con los materiales del curso si has comprendido el concepto correctamente.
+1.
+Defina función de producción y ponga 1 ejemplo de función de producción que dependa de 1, 2, 3 y 4 variables.
+2.
+Suponga la función de producción F(L)=2L+IO. ¿Es una función de corto o largo plazo? 3.
+Obtenga la función de requerimientos del trabajo en la función de producción anterior.
+4.
+Defina el término isocuanta. Diga qué 4 propiedades deben cumplir las isocuantas.
+5.
+Suponga la función de producción F(K,L)=KL. Represente la isocuanta de nivel 100 6.
+Defina Función de Producción Total, de Producto Medio y de Producto Marginal.
+7.
+Suponga la función de producción F(L)=L3. Calcule la Función de Producción Total, de Producto Medio y de Producto Marginal. ¿Cuántas unidades de producto producirá dicha empresa si posee 5 trabajadores? ¿Cuánto produce cada trabajador de media? ¿Cuánto produce el 5-o trabajador?
+8.
+Si el producto medio es creciente, el producto marginal, ¿cómo debe ser? 9.
+Si la producción total es decreciente, el producto marginal, ¿cómo debe ser? 10.
+Suponga la función de producción F(L)=IOL2-L3/3. ¿Para cuántos trabajadores el producto medio de los trabajadores será máximo?
+11.
+Defina la Ley de Rendimientos Decrecientes.
+12.
+Suponga la función de producción F(K,L)=K°3L°7. Calcule las funciones de PMK, PML, PMeK y PMeL.
+13.
+En la función anterior, calcule la RMSTK, u y diga cuánto vale si la empresa dispone de 4 unidades de factor trabajo y 5 de factor capital.
+14.
+Defina la RMSTK, L.
+15.
+Dibuje las isocuantas de una función de producción con sustitutivos perfectos y una función de producción con complementarios perfectos.
+16.
+Defina rendimientos crecientes, decrecientes y constantes a escala.
+17.
+En la función de producción F(K,L)=K°3L°7, ¿qué tipo de rendimientos a escala hay?
+Autoevaluación Tema 1 by Alfonso Rosa García is licensed under a Creative Commons Reconocimiento 3.0 Unoorted License.
